@@ -1,30 +1,36 @@
-🎯 Jogo da Forca em C++
+# 🎯 Jogo da Forca em c++
 
 Um jogo da forca simples feito em C++ rodando no terminal. O objetivo é adivinhar a palavra secreta, letra por letra, com no máximo 6 erros.
 💻 Tecnologias usadas
 
-🧠 Conceitos utilizados
 
-```
-   • std::vector
 
-   • std::string
+## 🧬 Tecnologias usadas
 
-   • Laços de repetição (for, while)
+- Linguagem: **c++**
+- Conceitos utilizados:
 
-   • Funções
+   - `std::vector`
+  
+   - `std::string`
+  
+   - `Laços de repetição (for, while)`
+  
+   - `Funções`
 
-   • Condicionais (if, else)
+   - `Condicionais (if, else)`
+  
+   - `Leitura de dados com std::cin`
+  
+   - `Escrita com std::cout`
+  
+   - `Comparação de caracteres`
+  
+   - `Lógica básica de jogo`
+  
+   - `Manipulação de caracteres com tolower()`
 
-   • Leitura de dados com std::cin
 
-   • Escrita com std::cout
-
-   • Comparação de caracteres
-
-   • Lógica básica de jogo
-   • Manipulação de caracteres com tolower()
-```
 # CODIGO:
 ```
 #include <iostream>
